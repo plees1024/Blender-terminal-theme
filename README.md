@@ -1,3 +1,5 @@
+![Preview](sample.png)
+
 ## Installation
 
 1. Download mono-green.xml
