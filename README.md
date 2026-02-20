@@ -8,6 +8,11 @@
 4. Click Install and select mono-green.xml
 5. Select Mono Green from the preset dropdown
 6. Click Save Preferences
+7. Enjoy!
+
+## Notes
+This theme is not complete - it is just a base. You will want to tweak things in `Preferences->Themes` to make it apply to all different windows.
+PRs welcome!
 
 ## License
 CC0 1.0 Universal
